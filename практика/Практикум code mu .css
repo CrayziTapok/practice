@@ -1,0 +1,237 @@
+/* Калькулятор продуктов */
+/* * {
+    box-sizing: border-box;
+}
+#parent {
+    margin: 0 auto;
+    width: 500px;
+}
+#form {
+    display: flex;
+    margin-bottom: 15px;
+}
+#form input {
+    padding: 8px;
+    width: 24%;
+    margin: 0 0.5% 10px  0.5%;
+}
+h2 {
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+#table {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#table td, #table th {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+}
+#table td.remove {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#table td.removeL:hover {
+    text-decoration: none;
+}
+#result {
+    text-align: right;
+    margin-right: 10px;
+} */
+
+
+
+/* 
+Игра смена цветов
+#field td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+.red {
+    background: red;
+}
+.green {
+    background: green;
+}
+.blue {
+    background: blue;
+} */
+
+
+
+
+
+
+/* Игра в города
+#message {
+    background-color: antiquewhite;
+    font-size: 16px;
+}
+#field {
+    width: 100%;
+    height: 40px;
+}
+.fail:not(.active) {
+    display: none;
+}
+.fail {
+    font-size: 100px;
+    color: red;
+    text-align: center;
+    display: block;
+}
+.gameover {
+    display: none;
+}
+#player1 {
+    color: blue;
+}
+#player2 {
+    color: green;
+}
+#player1, #player2 {
+    text-align: center;
+    font-size: 25px;
+}
+.turn {
+    display: none;
+} */
+
+
+
+
+
+
+
+/* Чеклис
+body {
+    text-align: center;
+}
+#input, #list {
+    display: inline-block;
+}
+#list {
+    padding: 0;
+    list-style-type: none;
+}
+#list span {
+    margin-right: 5px;
+}
+#list .remove, #list .mark {
+    color: blue;
+    cursor: pointer;
+}
+#list .remove:hover, #list .mark:hover {
+    text-decoration: underline;
+}
+#list .done {
+    text-decoration: line-through;
+}
+#input {
+    width: 300px;
+}
+#input:focus {
+    border: 2px solid black;
+} */
+
+
+
+/* 
+Тест с вариантами ответа
+.g {
+    color: green;
+}
+.r {
+    color: red;
+}
+
+
+
+
+
+
+предсказания
+#parent {
+	text-align: center;
+}
+#parent > * {
+	margin-bottom: 10px;
+}
+
+#timer {
+	font-size: 18px;
+}
+#text {
+	font-size: 17px;
+	font-style: italic;
+}
+
+button {
+	padding: 5px 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+button:not(.active) {
+	display: none;
+}
+.g {
+    color: green;
+}
+.r {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+найди число
+#parent {
+    text-align: center;
+}
+#field {
+    display: inline-block;
+}
+
+#field td {
+    padding: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.active {
+    background: red;
+}
+
+
+
+
+
+
+
+клавиатура 
+[class^="k"] {
+	display: grid;
+	place-items: center;
+	border: 1px solid black;
+}
+
+[class^="k"]:hover {
+	background-color: #1708c2;
+	color: white;
+}
+
+.container {
+	display: grid;
+	width: 1600px;
+	grid-template-columns: repeat(14, 1fr);
+	grid-template-rows: repeat(4, 1fr);
+} */
